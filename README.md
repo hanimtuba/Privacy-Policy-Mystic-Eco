@@ -1,105 +1,52 @@
 # Privacy-Policy-Mystic-Eco
+## 📜 Terms of Use & Privacy Policy (Fell in Fortune / Fallandık / Mystic Echo)
 
-This privacy policy applies to the **Mystic-Eco** mobile application ("Application") developed by **Tuğba AYHAN** ("Service Provider") as a free service. 
----
+This application is developed by **Hanimtubaasoft** and is designed solely for **entertainment purposes**. It uses **AI-generated responses** and **does not provide real fortune-telling, spiritual services, or psychic predictions**.
 
-## 📊 Information Collection and Use
+### 🎯 Purpose of the App
+- All interpretations are created by artificial intelligence.
+- They are **fictional**, **entertainment-based**, and do **not reflect reality**.
+- No human interpreters or mediums are involved.
 
-The Application does **not store** any personal information locally or remotely. However, it requires internet access to function, as all responses are generated in real-time using third-party AI services.
+### 💎 Tokens and Subscriptions
+- Tokens are used to receive AI-based content.
+- The **real purpose of tokens is to cover AI infrastructure costs**, not to sell fortune-telling.
+- Users can earn tokens by watching ads or purchase them directly.
+- Subscriptions offer:
+  - Ad-free experience
+  - Daily token rewards
+  - Access to premium areas
 
-The following information **may** be indirectly collected by third-party SDKs integrated into the app (e.g., AdMob):
+### 🔐 Permissions & Data Collected
+The app requests the following permissions for functionality only:
+- `INTERNET`, `CAMERA`, `READ/WRITE_EXTERNAL_STORAGE`
+- `FOREGROUND_SERVICE`, `WAKE_LOCK`, `POST_NOTIFICATIONS`
+- `RECEIVE_BOOT_COMPLETED`, `VIBRATE`, `SCHEDULE_EXACT_ALARM`
+- `BILLING` for in-app purchases and subscriptions
 
-- **Device identifiers**
-- **Approximate location**
-- **Advertising data (ad engagement, impressions)**
+Collected data may include:
+- Name, email, date of birth, gender, marital status
+- Uploaded cup photos or profile pictures
+- IP address, location (if permitted)
+- Usage history (pages visited, buttons clicked)
+- Login via Google/Facebook
 
-The Application **does not**:
-- Collect or store personal data (names, photos, contacts, etc.)
-- Access device storage or gallery
-- Use your microphone or camera
-- Track your precise location
+Data is stored securely in Firebase and locally on the device. Users can permanently delete all their data at any time via the **“Delete My Account”** button inside the app.
 
-All responses are generated **in real-time** using AI models. No user queries, results, or interaction data are retained by the Service Provider.
+### ⚠️ Legal Disclaimer
+By using this app, users confirm that:
+- They are **18+ years old**
+- They understand the content is for **entertainment only**
+- The app does not offer real fortune-telling, predictions, or supernatural advice
+- They accept the terms of use and grant necessary permissions
 
----
+### 📬 Contact & Company Info
+- Website: [https://www.hanimtubaasoft.com](https://www.hanimtubaasoft.com)
+- Email: [info@hanimtubaasoft.com](mailto:info@hanimtubaasoft.com)
 
-## 📢 Third-Party Services
+> 🛡️ You may not use this app for illegal activities, real spiritual claims, or to share harmful content. By installing or using this app, you agree to these terms.
 
-The Application uses the following third-party services:
-
-- **Google AdMob** – to show non-personalized and/or personalized ads
-
-These services **may collect** information used to identify you or tailor advertisements. For more details, please refer to:
-
-🔗 [Google AdMob Privacy Policy](https://policies.google.com/privacy)
-
----
-
-## 🔐 Data Retention Policy
-
-The Service Provider does **not store or retain** any data. All data is processed in real-time during app use and discarded immediately after processing.
-
----
-
-## ❌ Opt-Out Rights
-
-You can stop all data collection by:
-
-1. Turning off mobile data or Wi-Fi while using the app (limits functionality).
-2. Uninstalling the app using your device’s standard uninstall process.
-
----
-
-## 👶 Children’s Privacy
-
-This Application is **not intended for children under the age of 13**. The Service Provider does not knowingly collect data from children. If you believe a child has provided personal data, please contact us and it will be deleted immediately.
-
----
-
-## 🔒 Security
-
-Although no user data is stored, standard network-level security protocols are in place to ensure all API communications remain secure.
-
----
-
-## 📝 Changes to This Policy
-
-The Privacy Policy may be updated periodically. Any changes will be reflected on this page with a new effective date. Continued use of the Application after changes implies acceptance.
-
----
-
-## 📅 Effective Date
-
-**April 20, 2025**
-
----
-
-## ✅ Consent
-
-By using this Application, you consent to the use of your data (if any) as outlined in this Privacy Policy and to the use of Google AdMob under their terms.
-
----
-
-## 📬 Contact
-
-For privacy-related concerns or questions, you may contact:
-
-📧 **info@hanimtubaasoft.com**
-
----
-
-## ⚙️ Required Permissions Summary
-
-| Permission | Purpose |
-|-----------|---------|
-| `android.permission.INTERNET` | Access to AI APIs for generating fortune readings |
-| `android.permission.ACCESS_NETWORK_STATE` | To detect connectivity for API calls |
-| `com.google.android.gms.permission.AD_ID` | Used by Google AdMob for advertising identifiers |
-
-No storage, location, camera, or microphone permissions are requested by the app itself.
-
----
+> 🔍 For the full legal document, see: [Fell In Fortune Kullanım ve Gizlilik.md](./Fell%20In%20Fortune%20Kullanim%20Gizlilik.md)
 
 ## 🌐 Language Disclaimer
-
 This Privacy Policy is written in English to serve as a universal legal reference. Misunderstandings arising from translation are not the responsibility of the Service Provider.
